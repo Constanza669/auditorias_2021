@@ -1,0 +1,1018 @@
+Servicio,Region,Auditoria,Categoria,Subgerencia,Requisito,Cumplimiento parcial,Cumplimiento final,Nc preliminar,NC definitivas,NC tratadas
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,TMERT,95%,100%,1,0,1
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Silice,92%,100%,2,0,2
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Radiaciones Ionizantes,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,MMC,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Psicosocial,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,RUV,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Iluminación,63%,100%,2,0,2
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Evaluación puesto,50%,100%,2,0,2
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Covid-19,85%,100%,2,0,2
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,TMERT,95%,100%,1,0,1
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Radiaciones Ionizantes,100%,100%,0,0,0
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,MMC,71%,100%,2,0,2
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Psicosocial,85%,100%,3,1,2
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,RUV,95%,95%,1,0,0
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Iluminación,67%,100%,1,0,1
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Evaluación puesto,67%,100%,1,0,1
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Covid-19,100%,100%,0,0,0
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,TMERT,90%,100%,1,0,1
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,Radiaciones Ionizantes,100%,100%,0,0,0
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,MMC,94%,100%,1,0,1
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,Psicosocial,94%,100%,1,0,1
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,RUV,100%,100%,0,0,0
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,Iluminación,100%,100%,0,0,0
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,Evaluación puesto,33%,100%,2,0,2
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,Covid-19,94%,100%,1,0,1
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,TMERT,59%,64%,7,6,1
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Ruido,54%,81%,7,3,4
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Silice,62%,81%,8,5,3
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Radiaciones Ionizantes,80%,100%,3,0,0
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,MMC,63%,69%,5,4,1
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Psicosocial,45%,55%,9,7,2
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,RUV,55%,80%,6,3,3
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Iluminación,63%,88%,2,1,1
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Evaluación puesto,50%,63%,3,2,1
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Covid-19,91%,100%,1,0,1
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,TMERT,73%,95%,3,1,2
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Ruido,90%,97%,2,1,1
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Silice,97%,100%,1,0,1
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Hipobaria,82%,100%,3,0,0
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,MMC,50%,79%,4,2,2
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Psicosocial,60%,70%,5,4,1
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,RUV,90%,100%,2,0,2
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Iluminación,67%,100%,1,0,1
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Covid-19,75%,100%,3,0,3
+Geologia ,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,Teletrabajo,50%,100%,4,0,4
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,TMERT,86%,95%,3,1,2
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,MMC,88%,100%,3,0,3
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Psicosocial,90%,100%,2,0,2
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,RUV,95%,100%,1,0,1
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Iluminación,38%,100%,4,0,4
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Covid-19,56%,100%,6,0,6
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,TMERT,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,MMC,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Psicosocial,90%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,RUV,90%,100%,1,0,1
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Iluminación,67%,100%,1,0,1
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Evaluación puesto,75%,100%,1,0,1
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Covid-19,72%,100%,4,0,4
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,TMERT,40%,40%,6,6,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,MMC,4%,4%,12,12,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Psicosocial,40%,40%,7,7,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,RUV,70%,70%,4,4,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Iluminación,13%,13%,4,4,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Evaluación puesto,25%,25%,3,3,0
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Covid-19,73%,73%,5,5,0
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,TMERT,83%,100%,2,0,2
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,MMC,85%,100%,2,0,2
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,Psicosocial,70%,95%,4,1,3
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,RUV,65%,85%,6,3,3
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,Iluminación,75%,100%,1,0,1
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,Evaluación puesto,75%,100%,1,0,1
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,Covid-19,61%,100%,5,0,5
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu ,Teletrabajo,83%,100%,2,0,2
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,TMERT,90%,100%,2,0,2
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,MMC,92%,100%,1,0,1
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,Psicosocial,100%,100%,0,0,0
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,RUV,100%,100%,0,0,0
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,Iluminación,83%,100%,1,0,1
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,Evaluación puesto,83%,100%,1,0,1
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,Covid-19,90%,100%,1,0,1
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,Hipobaria,95%,100%,1,0,1
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,TMERT,80%,100%,4,0,4
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,MMC,86%,100%,2,0,2
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,Psicosocial,75%,100%,4,0,4
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,RUV,75%,100%,4,0,4
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,Iluminación,100%,100%,0,0,0
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,Evaluación puesto,83%,100%,1,0,1
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,Covid-19,81%,100%,2,0,2
+CMPC,Bio Bio,Higiene y Salud Ocupacional,A,Elias Matamoros,Ruido,85%,100%,3,0,3
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,TMERT,0%,67%,9,3,6
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,MMC,0%,100%,10,0,10
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Psicosocial,27%,100%,8,0,8
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,RUV,85%,100%,3,0,3
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Iluminación,0%,100%,1,0,1
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Evaluación puesto,0%,0%,1,1,0
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,Covid-19,80%,85%,3,2,1
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,TMERT,65%,90%,4,1,3
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Silice,56%,75%,4,2,2
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Radiaciones Ionizantes,75%,95%,3,1,2
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Vibraciones,43%,71%,5,2,3
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Hipobaria,91%,91%,1,1,0
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,MMC,43%,89%,5,1,4
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Psicosocial,81%,94%,3,1,2
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,RUV,75%,85%,4,2,2
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Iluminación,25%,25%,2,2,0
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Evaluación puesto,25%,25%,2,2,0
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Covid-19,70%,90%,4,1,3
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Exposicion a frio,43%,86%,5,1,4
+Quebrada Blanca ,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,Neblina acida,25%,58%,6,4,2
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,TMERT,82%,100%,2,0,2
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,MMC,77%,100%,3,0,3
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Psicosocial,80%,100%,3,0,3
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,RUV,80%,95%,3,1,2
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Iluminación,50%,50%,2,2,0
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Evaluación puesto,0%,0%,4,4,0
+Lavanderia ,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,Covid-19,65%,100%,3,0,3
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Objetivos de Seguridad y Salud Ocupacional,94%,100%,1,0,1
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Capacitacion,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Requisitos Legales,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Auditorias ,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Salud ocupacional ,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Riesgos de fatalidad,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Accidentabilidad ,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Elementos de protección personal ,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Control documental ,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,"Comunicacion, participacion y consulta",100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Seguridad ,B,Hector Figueroa,Comite paritario de higiene y seguridad. ,100%,100%,0,0,0
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Identificacion Peligros y Evaluacion de Riesgos,88%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Objetivos de Seguridad y Salud Ocupacional,44%,83%,5,2,3
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Capacitacion,50%,100%,2,0,2
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Requisitos Legales,50%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Preparacion y Respuesta Ante Emergencias,75%,100%,3,0,3
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Auditorias ,29%,80%,5,1,4
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Salud ocupacional ,90%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Riesgos de fatalidad,100%,100%,0,0,0
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Accidentabilidad ,75%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Elementos de protección personal ,80%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Control documental ,92%,100%,1,0,1
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,"Comunicacion, participacion y consulta",25%,100%,3,0,3
+Geologia ,Antofagasta,Seguridad ,A,Hector Figueroa,Comite paritario de higiene y seguridad. ,72%,100%,3,0,3
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Objetivos de Seguridad y Salud Ocupacional,94%,100%,1,0,1
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Capacitacion,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Requisitos Legales,0%,100%,1,0,1
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Auditorias ,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Salud ocupacional ,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Riesgos de fatalidad,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Accidentabilidad ,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Elementos de protección personal ,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Control documental ,100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,"Comunicacion, participacion y consulta",100%,100%,0,0,0
+El Peñon,Antofagasta,Seguridad ,B,Mauricio Aguilera ,Comite paritario de higiene y seguridad. ,89%,100%,1,0,1
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Objetivos de Seguridad y Salud Ocupacional,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Capacitacion,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Requisitos Legales,75%,100%,1,0,1
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Auditorias ,50%,50%,3,3,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Salud ocupacional ,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Riesgos de fatalidad,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Accidentabilidad ,94%,100%,1,0,1
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Elementos de protección personal ,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Control documental ,100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,"Comunicacion, participacion y consulta",100%,100%,0,0,0
+Spence,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Comite paritario de higiene y seguridad. ,83%,90%,2,1,1
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Objetivos de Seguridad y Salud Ocupacional,94%,100%,1,0,1
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Capacitacion,75%,100%,1,0,1
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Requisitos Legales,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Preparacion y Respuesta Ante Emergencias,90%,100%,2,0,2
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Auditorias ,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Salud ocupacional ,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Riesgos de fatalidad,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Accidentabilidad ,67%,100%,2,0,2
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Elementos de protección personal ,90%,100%,1,0,1
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Control documental ,100%,100%,0,0,0
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,"Comunicacion, participacion y consulta",50%,100%,4,0,4
+SGO ,Antofagasta,Seguridad ,A,Mauricio Aguilera ,Comite paritario de higiene y seguridad. ,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Objetivos de Seguridad y Salud Ocupacional,81%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Capacitacion,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Preparacion y Respuesta Ante Emergencias,85%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Auditorias ,50%,100%,1,0,1
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Salud ocupacional ,67%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Riesgos de fatalidad,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Accidentabilidad ,50%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Elementos de protección personal ,70%,100%,2,0,2
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Control documental ,100%,100%,0,0,0
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,"Comunicacion, participacion y consulta",63%,100%,3,0,3
+Cerro Negro,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Comite paritario de higiene y seguridad. ,50%,100%,6,0,6
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Objetivos de Seguridad y Salud Ocupacional,56%,67%,5,4,1
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Capacitacion,75%,75%,1,1,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Requisitos Legales,0%,25%,2,2,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Preparacion y Respuesta Ante Emergencias,81%,100%,2,0,2
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Auditorias ,50%,50%,3,3,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Salud ocupacional ,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Riesgos de fatalidad,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Accidentabilidad ,88%,100%,1,0,1
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Elementos de protección personal ,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Control documental ,92%,100%,1,0,1
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,"Comunicacion, participacion y consulta",0%,100%,4,0,4
+INCO,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Comite paritario de higiene y seguridad. ,44%,83%,6,3,3
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Objetivos de Seguridad y Salud Ocupacional,83%,100%,2,0,2
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Capacitacion,100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Requisitos Legales,100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Auditorias ,75%,100%,1,0,1
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Salud ocupacional ,67%,100%,2,0,2
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Riesgos de fatalidad,88%,100%,1,0,1
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Accidentabilidad ,0%,100%,2,0,2
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Elementos de protección personal ,80%,100%,1,0,1
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Control documental ,100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,"Comunicacion, participacion y consulta",100%,100%,0,0,0
+Casa Matriz,Metropolitana,Seguridad ,B,Victor Zañartu,Comite paritario de higiene y seguridad. ,89%,100%,2,0,2
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Identificacion Peligros y Evaluacion de Riesgos,75%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Objetivos de Seguridad y Salud Ocupacional,89%,94%,2,1,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Capacitacion,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Requisitos Legales,75%,75%,1,1,0
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Preparacion y Respuesta Ante Emergencias,94%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Auditorias ,50%,88%,2,1,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Salud ocupacional ,92%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Riesgos de fatalidad,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Accidentabilidad ,90%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Elementos de protección personal ,80%,100%,2,0,2
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Control documental ,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,"Comunicacion, participacion y consulta",25%,100%,3,0,3
+Quebrada Blanca,Tarapaca,Seguridad ,A,Mauricio Aguilera ,Comite paritario de higiene y seguridad. ,44%,72%,6,3,3
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Objetivos de Seguridad y Salud Ocupacional,88%,100%,1,0,1
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Capacitacion,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Auditorias ,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Salud ocupacional ,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Riesgos de fatalidad,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Accidentabilidad ,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Elementos de protección personal ,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,Control documental ,100%,100%,0,0,0
+CMPC,Bio Bio,Seguridad ,A,Elias Matamoro,"Comunicacion, participacion y consulta",100%,100%,0,0,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Identificacion Peligros y Evaluacion de Riesgos,75%,100%,1,0,1
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Objetivos de Seguridad y Salud Ocupacional,39%,39%,6,6,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Capacitacion,75%,75%,1,1,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Requisitos Legales,0%,0%,1,1,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Auditorias ,40%,40%,3,3,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Salud ocupacional ,100%,100%,0,0,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Riesgos de fatalidad,100%,100%,0,0,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Accidentabilidad ,100%,100%,0,0,0
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Elementos de protección personal ,70%,90%,2,1,1
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Control documental ,83%,100%,1,0,1
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,"Comunicacion, participacion y consulta",25%,100%,3,0,3
+CDA,Atacama y Coquimbo,Seguridad ,B,Elias Matamoro,Comite paritario de higiene y seguridad. ,78%,83%,3,3,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Identificacion Peligros y Evaluacion de Riesgos,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Objetivos de Seguridad y Salud Ocupacional,89%,100%,2,0,2
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Capacitacion,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Preparacion y Respuesta Ante Emergencias,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Auditorias ,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Salud ocupacional ,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Riesgos de fatalidad,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Accidentabilidad ,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Elementos de protección personal ,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Control documental ,100%,100%,0,0,0
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,"Comunicacion, participacion y consulta",75%,100%,2,0,2
+Anglo American,Metropolitana,Seguridad ,A,Elias Matamoro,Comite paritario de higiene y seguridad. ,94%,100%,1,0,1
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Identificacion Peligros y Evaluacion de Riesgos,50%,50%,3,3,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Objetivos de Seguridad y Salud Ocupacional,61%,61%,6,6,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Capacitacion,25%,25%,2,2,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Requisitos Legales,50%,50%,1,1,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Preparacion y Respuesta Ante Emergencias,60%,60%,6,6,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Auditorias ,50%,50%,2,2,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Salud ocupacional ,50%,50%,2,2,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Riesgos de fatalidad,88%,88%,1,1,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Accidentabilidad ,56%,56%,4,4,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Elementos de protección personal ,70%,70%,2,2,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Control documental ,67%,67%,3,3,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,"Comunicacion, participacion y consulta",13%,13%,4,4,0
+Lavanderia,Tarapaca,Seguridad ,B,Hector Figueroa,Comite paritario de higiene y seguridad. ,72%,72%,4,4,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Identificación de Riesgos y Oportunidades,56%,71%,4,3,1
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Capacitación / Competencia,50%,50%,4,4,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Requisitos Legales  / Operación,94%,94%,1,1,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Preparación y Respuesta Ante Emergencias Operacionales,50%,100%,3,0,3
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Auditorías,60%,80%,2,1,1
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Satisfacción al Cliente,100%,100%,0,0,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,"Equipos, Vehículos y Herramientas ",40%,100%,3,0,3
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Control Documental,100%,100%,0,0,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Comunicación Participación y Consulta,75%,100%,0,0,0
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,Revisión por la Dirección,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Identificación de Riesgos y Oportunidades,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Capacitación / Competencia,83%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Requisitos Legales  / Operación,83%,95%,2,1,1
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias Operacionales,75%,75%,1,1,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Auditorías,75%,75%,1,1,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Satisfacción al Cliente,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,"Equipos, Vehículos y Herramientas ",100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Comunicación Participación y Consulta,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Revisión por la Dirección,0%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera,Productos y Servicios Suministrados Externamente,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Identificación de Riesgos y Oportunidades,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Capacitación / Competencia,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Requisitos Legales  / Operación,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias Operacionales,63%,100%,2,0,2
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Auditorías,75%,75%,1,1,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Satisfacción al Cliente,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,"Equipos, Vehículos y Herramientas ",100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Comunicación Participación y Consulta,100%,100%,0,0,0
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera,Revisión por la Dirección,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Identificación de Riesgos y Oportunidades,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Capacitación / Competencia,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Requisitos Legales  / Operación,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Preparación y Respuesta Ante Emergencias Operacionales,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Auditorías,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Satisfacción al Cliente,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,"Equipos, Vehículos y Herramientas ",100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Control Documental,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Comunicación Participación y Consulta,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,Revisión por la Dirección,100%,100%,0,0,0
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Identificación de Riesgos y Oportunidades,57%,100%,3,0,3
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Capacitación / Competencia,50%,100%,1,0,1
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Requisitos Legales  / Operación,80%,100%,3,0,3
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias Operacionales,38%,100%,2,0,2
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Auditorías,50%,100%,1,0,1
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Satisfacción al Cliente,100%,100%,0,0,0
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,"Equipos, Vehículos y Herramientas ",80%,100%,1,0,1
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Comunicación Participación y Consulta,100%,100%,0,0,0
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera,Revisión por la Dirección,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Identificación de Riesgos y Oportunidades,57%,57%,4,4,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Capacitación / Competencia,63%,75%,3,2,1
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Requisitos Legales  / Operación,78%,92%,2,1,1
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Preparación y Respuesta Ante Emergencias Operacionales,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Auditorías,60%,80%,2,1,1
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Satisfacción al Cliente,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,"Equipos, Vehículos y Herramientas ",92%,92%,1,1,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Control Documental,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Comunicación Participación y Consulta,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoro,Revisión por la Dirección,0%,0%,1,1,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Identificación de Riesgos y Oportunidades,81%,100%,2,0,2
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Capacitación / Competencia,38%,100%,3,0,3
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Requisitos Legales  / Operación,95%,100%,1,0,1
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Preparación y Respuesta Ante Emergencias Operacionales,100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Auditorías,100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Satisfacción al Cliente,100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,"Equipos, Vehículos y Herramientas ",100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Control Documental,100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Comunicación Participación y Consulta,100%,100%,0,0,0
+Anglo American,Metropolitana ,Calidad,A,Elias Matamoro,Revisión por la Dirección,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Identificación de Riesgos y Oportunidades,83%,100%,2,2,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Capacitación / Competencia,50%,100%,2,2,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Requisitos Legales  / Operación,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Preparación y Respuesta Ante Emergencias Operacionales,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Auditorías,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Satisfacción al Cliente,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,"Equipos, Vehículos y Herramientas ",89%,100%,1,1,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Control Documental,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Comunicación Participación y Consulta,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Revisión por la Dirección,100%,100%,0,0,0
+CMPC,Bio Bio,Calidad,A,Elias Matamoro,Productos y Servicios Suministrados Externamente,100%,100%,0,0,0
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Identificación de Riesgos y Oportunidades,71%,86%,3,1,2
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Capacitación / Competencia,33%,100%,2,0,2
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Requisitos Legales  / Operación,50%,93%,4,1,3
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Preparación y Respuesta Ante Emergencias Operacionales,100%,100%,0,0,0
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Auditorías,50%,100%,1,0,1
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,"Equipos, Vehículos y Herramientas ",33%,100%,2,0,2
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Control Documental,100%,100%,0,0,0
+Casa Matriz ,Metropolitana ,Calidad,B,Victor Zañartu,Revisión por la Dirección,0%,100%,1,0,1
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Identificación Aspectos e Impactos Ambientales,50%,100%,2,0,2
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Objetivos de Medio Ambiente,75%,100%,1,0,1
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Capacitación,50%,100%,1,0,1
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Requisitos Legales,50%,100%,1,0,1
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Preparación y Respuesta Ante Emergencias,75%,100%,1,0,1
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Auditorías,100%,100%,0,0,0
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,Control Documental,100%,100%,0,0,0
+Geologia,Antofagasta,Medio ambiente,A,Hector Figueroa,"Comunicación, Participación y Consulta",50%,100%,1,0,1
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Identificación Aspectos e Impactos Ambientales,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Objetivos de Medio Ambiente,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Capacitación,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Requisitos Legales,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+Quebrada Blanca,Tarapaca,Medio ambiente,A,Mauricio Aguilera,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Identificación Aspectos e Impactos Ambientales,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Objetivos de Medio Ambiente,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Capacitación,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Requisitos Legales,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+Spence,Antofagasta,Medio ambiente,A,Mauricio Aguilera,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Identificación Aspectos e Impactos Ambientales,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Objetivos de Medio Ambiente,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Capacitación,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Requisitos Legales,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,Control Documental,100%,100%,0,0,0
+Cerro Colorado,Tarapaca,Medio ambiente,B,Hector Figueroa,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Identificación Aspectos e Impactos Ambientales,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Objetivos de Medio Ambiente,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Capacitación,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Requisitos Legales,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,Control Documental,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio ambiente,B,Mauricio Aguilera,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Identificación Aspectos e Impactos Ambientales,88%,100%,1,0,1
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Objetivos de Medio Ambiente,50%,50%,2,2,0
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Capacitación,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,Control Documental,83%,100%,1,0,1
+INCO,Atacama y Coquimbo,Medio ambiente,B,Elias Matamoro,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Identificación Aspectos e Impactos Ambientales,75%,100%,1,0,1
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Objetivos de Medio Ambiente,100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Capacitación,100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Preparación y Respuesta Ante Emergencias,100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,Control Documental,100%,100%,0,0,0
+Anglo American,Metropolitana ,Medio ambiente,A,Elias Matamoro,"Comunicación, Participación y Consulta",100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Identificación Aspectos e Impactos Ambientales,100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Objetivos de Medio Ambiente,100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Capacitación,100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Requisitos Legales,100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Preparación y Respuesta Ante Emergencias,83%,100%,1,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,Control Documental,100%,100%,0,0,0
+CMPC ,Bio Bio,Medio ambiente,A,Elias Matamoro,"Comunicación, Participación y Consulta",50%,100%,1,1,0
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Identificación Aspectos e Impactos Ambientales,63%,100%,2,0,2
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Objetivos de Medio Ambiente,63%,100%,2,0,2
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Capacitación,75%,100%,1,0,1
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Requisitos Legales,100%,100%,0,0,0
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Preparación y Respuesta Ante Emergencias,79%,93%,2,1,1
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Residuos Peligrosos,100%,100%,0,0,0
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Sustancias Peligrosas,100%,100%,0,0,0
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Emisiones Contaminantes (Equipos Generadores de Energía),70%,100%,2,0,2
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,Control Documental,100%,100%,0,0,0
+Casa Matriz,Metropolitana ,Medio ambiente,B,Victor Zañartu ,"Comunicación, Participación y Consulta",75%,100%,1,0,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
