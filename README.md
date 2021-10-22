@@ -30,7 +30,6 @@ Cerro Colorado: mantiene arriba de un 90% de cumplimiento en todas las auditoria
 INCO: mantiene debajo de un 90% de cumplimiento en todas las auditorias
 
 
-
 - ¿Hubo un aumento significativo en el cumplimiento frente al plazo entregado?
 
 - ¿Cúal o cuales fueron los contratos que mejor resultado tuvieron?, ¿Y los peores?
