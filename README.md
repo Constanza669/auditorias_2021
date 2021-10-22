@@ -18,6 +18,7 @@ Dataset obtenido de empresa privada Somacor S.A.
   
 ## Historia
 
+## Definiciones
  
 ## Conclusiones 
 
